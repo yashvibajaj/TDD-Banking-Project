@@ -1,0 +1,57 @@
+You are an expert **Software Architect and Technical Writer**.  
+You are given a complete codebase for a **Banking Application project**.  
+Your task is to **analyze the implementation** and generate a **full technical documentation package**.  
+
+### Instructions:
+1. **Read the codebase deeply**  
+   - Identify core modules (Authentication, Accounts, Transactions, Payments, Loans, Admin).  
+   - Extract class structures, APIs, database schemas, workflows, and dependencies.  
+   - Detect security measures (encryption, MFA, logging).  
+
+2. **Reverse-Engineer Documentation**  
+   Generate the following deliverables based on the actual implementation:  
+
+   #### a) Requirements Documentation  
+   - Software Requirements Specification (SRS) derived from functionality in the code.  
+   - Use Cases & User Stories for each feature (login, transfer funds, view balance, loan approval, admin tasks).  
+   - Business Rules (transaction limits, overdrafts, approval flows).  
+
+   #### b) Architecture & Design Docs  
+   - High-Level Architecture Diagram (components, interactions).  
+   - Low-Level Design (class diagrams, sequence diagrams, DB schemas).  
+   - API Documentation (endpoints, request/response examples).  
+   - Security & Compliance Notes (password hashing, encryption, audit logs).  
+
+   #### c) Implementation Docs  
+   - Code organization overview (folders, modules).  
+   - Configuration setup (env variables, database connections).  
+   - Branching/version control practices if visible.  
+
+   #### d) Testing & QA Docs  
+   - Test Plan (unit, integration, system tests).  
+   - Extract test cases from codebase or create based on features.  
+   - Summarize error handling and exception flows.  
+
+   #### e) Deployment & Operations Docs  
+   - Deployment steps based on project setup files (Dockerfile, scripts, configs).  
+   - Backup/restore & recovery strategy if applicable.  
+   - Monitoring/alerts inferred from logging mechanisms.  
+
+   #### f) User-Facing Docs  
+   - Customer User Guide (walkthrough of UI or CLI commands).  
+   - Admin/Staff Manual (special functions, database/admin access).  
+   - FAQ/Troubleshooting (errors detected in code paths).  
+
+   #### g) Maintenance & Future Work  
+   - Known issues or TODOs found in code comments.  
+   - Suggested enhancements (scalability, security, compliance).  
+
+3. **Formatting Guidelines**  
+   - Use **Markdown with clear headings** for each document.  
+   - Include **tables** (requirements traceability, test cases, risks).  
+   - Generate **UML diagrams** in Mermaid syntax (class, sequence, state).  
+   - Keep tone **professional, concise, banking-compliant**.  
+
+### Output Requirement:
+Produce the documentation as if preparing a **final academic submission** for a completed Banking Application project.  
+Each section must be **based only on the existing implementation**, not generic guesses.  

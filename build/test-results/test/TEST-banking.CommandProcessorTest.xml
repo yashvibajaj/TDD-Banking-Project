@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.CommandProcessorTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2024-01-15T04:21:29" hostname="Vanshs-MacBook-Pro.local" time="0.018">
+  <properties/>
+  <testcase name="pass_time_one_month_when_balance_is_greater_than_0_and_less_than_100()" classname="banking.CommandProcessorTest" time="0.009"/>
+  <testcase name="transfer_from_checking_to_saving_account()" classname="banking.CommandProcessorTest" time="0.001"/>
+  <testcase name="money_is_deposited_into_old_bank_account()" classname="banking.CommandProcessorTest" time="0.001"/>
+  <testcase name="checking_account_is_created_as_specified()" classname="banking.CommandProcessorTest" time="0.001"/>
+  <testcase name="transfer_from_savings_to_checking_account()" classname="banking.CommandProcessorTest" time="0.0"/>
+  <testcase name="pass_time_twice()" classname="banking.CommandProcessorTest" time="0.0"/>
+  <testcase name="savings_account_is_created_as_specified()" classname="banking.CommandProcessorTest" time="0.0"/>
+  <testcase name="transfer_between_two_savings_account()" classname="banking.CommandProcessorTest" time="0.0"/>
+  <testcase name="pass_time_balance_is_more_than_100()" classname="banking.CommandProcessorTest" time="0.001"/>
+  <testcase name="CD_account_is_created_as_specified()" classname="banking.CommandProcessorTest" time="0.0"/>
+  <testcase name="withdraw_from_savings_account()" classname="banking.CommandProcessorTest" time="0.001"/>
+  <testcase name="money_is_deposited_into_new_bank_account()" classname="banking.CommandProcessorTest" time="0.001"/>
+  <testcase name="withdraw_from_CD_account()" classname="banking.CommandProcessorTest" time="0.0"/>
+  <testcase name="transfer_twice_between_2_accounts()" classname="banking.CommandProcessorTest" time="0.001"/>
+  <testcase name="withdraw_from_checking_account()" classname="banking.CommandProcessorTest" time="0.0"/>
+  <testcase name="past_time_one_month_CD()" classname="banking.CommandProcessorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

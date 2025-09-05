@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.AccountTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-01-15T04:21:29" hostname="Vanshs-MacBook-Pro.local" time="0.002">
+  <properties/>
+  <testcase name="apr_is_same_as_provided_value()" classname="banking.AccountTest" time="0.001"/>
+  <testcase name="double_deposit_in_account()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="double_withdraw_from_account()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="account_amount_cannot_be_negative()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="withdraw_from_account()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="deposit_in_account()" classname="banking.AccountTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

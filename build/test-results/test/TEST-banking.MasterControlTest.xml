@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.MasterControlTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-01-15T04:21:29" hostname="Vanshs-MacBook-Pro.local" time="0.011">
+  <properties/>
+  <testcase name="invalid_to_create_accounts_with_same_id()" classname="banking.MasterControlTest" time="0.009"/>
+  <testcase name="typo_in_create_command_is_invalid()" classname="banking.MasterControlTest" time="0.0"/>
+  <testcase name="two_typo_command_both_invalid()" classname="banking.MasterControlTest" time="0.0"/>
+  <testcase name="sample_make_sure_this_passes_unchanged()" classname="banking.MasterControlTest" time="0.001"/>
+  <testcase name="typo_in_deposit_command_is_invalid()" classname="banking.MasterControlTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

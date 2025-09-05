@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.CommandStorageTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-01-15T04:21:29" hostname="Vanshs-MacBook-Pro.local" time="0.001">
+  <properties/>
+  <testcase name="invalid_command_list_is_empty()" classname="banking.CommandStorageTest" time="0.0"/>
+  <testcase name="invalid_command_is_stored()" classname="banking.CommandStorageTest" time="0.0"/>
+  <testcase name="invalid_commands_are_stored()" classname="banking.CommandStorageTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

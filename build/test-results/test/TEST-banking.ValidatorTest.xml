@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.ValidatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-01-15T04:21:29" hostname="Vanshs-MacBook-Pro.local" time="0.009">
+  <properties/>
+  <testcase name="withdraw_amount_valid()" classname="banking.ValidatorTest" time="0.002"/>
+  <testcase name="deposit_command_is_valid()" classname="banking.ValidatorTest" time="0.001"/>
+  <testcase name="transfer_command_is_valid()" classname="banking.ValidatorTest" time="0.005"/>
+  <testcase name="create_command_is_valid()" classname="banking.ValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

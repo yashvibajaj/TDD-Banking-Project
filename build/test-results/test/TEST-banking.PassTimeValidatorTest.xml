@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.PassTimeValidatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-01-15T04:21:29" hostname="Vanshs-MacBook-Pro.local" time="0.0">
+  <properties/>
+  <testcase name="months_are_valid()" classname="banking.PassTimeValidatorTest" time="0.0"/>
+  <testcase name="command_arguments_are_right()" classname="banking.PassTimeValidatorTest" time="0.0"/>
+  <testcase name="pass_is_correct()" classname="banking.PassTimeValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

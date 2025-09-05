@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.CreateValidatorTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-01-15T04:21:29" hostname="Vanshs-MacBook-Pro.local" time="0.003">
+  <properties/>
+  <testcase name="deleted_id_can_be_reused()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="create_is_valid_in_command()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="amount_is_valid()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="id_is_unique()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="apr_is_valid()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="uniqueid_is_valid()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="command_length_is_right()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="account_type_is_valid_in_command()" classname="banking.CreateValidatorTest" time="0.001"/>
+  <testcase name="create_command_is_valid()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

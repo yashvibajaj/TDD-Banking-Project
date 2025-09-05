@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.WithdrawValidatorTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-01-15T04:21:29" hostname="Vanshs-MacBook-Pro.local" time="0.001">
+  <properties/>
+  <testcase name="withdraw_amount_valid()" classname="banking.WithdrawValidatorTest" time="0.0"/>
+  <testcase name="withdraw_valid()" classname="banking.WithdrawValidatorTest" time="0.0"/>
+  <testcase name="withdraw_id_valid()" classname="banking.WithdrawValidatorTest" time="0.0"/>
+  <testcase name="withdraw_from_CD()" classname="banking.WithdrawValidatorTest" time="0.001"/>
+  <testcase name="withdraw_from_saving_once_a_month()" classname="banking.WithdrawValidatorTest" time="0.0"/>
+  <testcase name="withdraw_from_checking_twice_in_one_month()" classname="banking.WithdrawValidatorTest" time="0.0"/>
+  <testcase name="withdraw_from_savings_twice_in_distinct_months()" classname="banking.WithdrawValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

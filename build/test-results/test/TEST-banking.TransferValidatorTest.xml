@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.TransferValidatorTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-01-15T04:21:29" hostname="Vanshs-MacBook-Pro.local" time="0.001">
+  <properties/>
+  <testcase name="account_second_id_is_valid()" classname="banking.TransferValidatorTest" time="0.0"/>
+  <testcase name="account_first_id_is_valid()" classname="banking.TransferValidatorTest" time="0.0"/>
+  <testcase name="amount_is_Valid()" classname="banking.TransferValidatorTest" time="0.0"/>
+  <testcase name="transfer_command_is_valid()" classname="banking.TransferValidatorTest" time="0.001"/>
+  <testcase name="transfer_is_valid()" classname="banking.TransferValidatorTest" time="0.0"/>
+  <testcase name="command_has_4_arguments()" classname="banking.TransferValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
