@@ -12,13 +12,13 @@ This documentation package provides a complete technical analysis of the TDD Ban
 
 | Document | Description | Target Audience |
 |----------|-------------|-----------------|
-| **[01_Software_Requirements_Specification.md](01_Software_Requirements_Specification.md)** | Complete SRS derived from actual implementation | Product Managers, Developers, QA |
-| **[02_Architecture_Design.md](02_Architecture_Design.md)** | High-level and low-level architecture with UML diagrams | Architects, Developers, Technical Leads |
-| **[03_API_Documentation.md](03_API_Documentation.md)** | Complete API reference and command documentation | Developers, Integration Teams |
-| **[04_Testing_Documentation.md](04_Testing_Documentation.md)** | Comprehensive testing strategy and test cases | QA Engineers, Developers |
-| **[05_User_Documentation.md](05_User_Documentation.md)** | User guides and admin manuals | End Users, Bank Staff, Administrators |
-| **[06_Deployment_Operations.md](06_Deployment_Operations.md)** | Deployment and operations procedures | DevOps, System Administrators |
-| **[07_Maintenance_Future_Work.md](07_Maintenance_Future_Work.md)** | Maintenance procedures and future enhancements | Development Team, Product Managers |
+| **[01_Software_Requirements_Specification.md](documentation/01_Software_Requirements_Specification.md)** | Complete SRS derived from actual implementation | Product Managers, Developers, QA |
+| **[02_Architecture_Design.md](documentation/02_Architecture_Design.md)** | High-level and low-level architecture with UML diagrams | Architects, Developers, Technical Leads |
+| **[03_API_Documentation.md](documentation/03_API_Documentation.md)** | Complete API reference and command documentation | Developers, Integration Teams |
+| **[04_Testing_Documentation.md](documentation/04_Testing_Documentation.md)** | Comprehensive testing strategy and test cases | QA Engineers, Developers |
+| **[05_User_Documentation.md](documentation/05_User_Documentation.md)** | User guides and admin manuals | End Users, Bank Staff, Administrators |
+| **[06_Deployment_Operations.md](documentation/06_Deployment_Operations.md)** | Deployment and operations procedures | DevOps, System Administrators |
+| **[07_Maintenance_Future_Work.md](documentation/07_Maintenance_Future_Work.md)** | Maintenance procedures and future enhancements | Development Team, Product Managers |
 
 ## 🏗️ System Architecture
 
